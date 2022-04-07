@@ -1,0 +1,20 @@
+.call-to-action-container {
+  width: 30%;
+  height: 38px;
+  background-color: #59ac00;
+  color: white;
+  border-radius: 3px;
+  margin-left: 20px;
+}
+
+.call-to-action-container p {
+  padding-top: 10px;
+}
+
+.call-to-action-link {
+  text-decoration: none;
+}
+
+.call-to-action-container:hover {
+  background-color: #5a76c0;
+}
